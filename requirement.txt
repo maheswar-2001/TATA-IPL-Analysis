@@ -5,4 +5,5 @@ plotly
 pickle
 sklearn
 matplotlib
+joblib
 pip
