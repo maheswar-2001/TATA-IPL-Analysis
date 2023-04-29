@@ -6,4 +6,4 @@ pickle5
 joblib
 sklearn
 matplotlib
-
+pip == 23.1.2
