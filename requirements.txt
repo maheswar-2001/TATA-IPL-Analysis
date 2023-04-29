@@ -6,4 +6,3 @@ pickle5
 joblib
 sklearn
 matplotlib
-streamlib
