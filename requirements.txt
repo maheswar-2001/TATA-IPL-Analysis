@@ -4,5 +4,5 @@ numpy
 plotly
 pickle5
 joblib
-sklearn
+scikit-learn
 matplotlib
