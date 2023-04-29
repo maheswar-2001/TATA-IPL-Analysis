@@ -1,11 +1,11 @@
 import streamlit as sl
 import pandas as pd
 import numpy as np
-import plotly.express as px
-import joblib
+#import plotly.express as px
+#import joblib
 import pickle
 import sklearn
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 match = pd.read_csv('matches.csv')
 deliveries = pd.read_csv('deliveries.csv')
