@@ -1,7 +1,7 @@
 import streamlit as sl
 import pandas as pd
 import numpy as np
-import plotly.express as px
+#import plotly.express as px
 import joblib
 import pickle
 import sklearn
@@ -36,8 +36,8 @@ if options == "Summary":
     # Bar graph for the team and their number of matches played
     x = match['team1'].value_counts()
     y = match['team2'].value_counts()
-    fig = px.bar(x, y, title="Team Wise Winning List")
-    sl.plotly_chart(fig)
+#     fig = px.bar(x, y, title="Team Wise Winning List")
+#     sl.plotly_chart(fig)
 
     sl.header("Year Wise Winning Summary")
     url = pd.read_html('https://www.careerpower.in/ipl-winners-list.html')
