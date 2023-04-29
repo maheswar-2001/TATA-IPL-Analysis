@@ -2,7 +2,7 @@ import streamlit as sl
 import pandas as pd
 import numpy as np
 #import plotly.express as px
-import joblib
+#import joblib
 import pickle
 import sklearn
 match = pd.read_csv('matches.csv')
