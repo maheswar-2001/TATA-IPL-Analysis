@@ -4,7 +4,7 @@ import numpy as np
 import plotly.express as px
 import joblib
 import pickle
-import sklearn
+#import sklearn
 #import matplotlib.pyplot as plt
 
 match = pd.read_csv('matches.csv')
