@@ -6,3 +6,4 @@ pickle5
 joblib
 scikit-learn
 matplotlib
+lxml
