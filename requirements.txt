@@ -2,7 +2,7 @@ pandas
 streamlit
 numpy
 plotly
-pickle
+pickle = 5 0.0.12
 joblib
 sklearn
 matplotlib
