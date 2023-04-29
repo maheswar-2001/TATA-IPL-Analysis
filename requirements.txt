@@ -6,4 +6,4 @@ pickle
 joblib
 sklearn
 matplotlib
-pip
+
